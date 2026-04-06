@@ -1,5 +1,5 @@
 # phishing-maestro
-# ELEC0138 Security & Privacy — Threat Modelling & Attack Simulation
+# ELEC0138 Security & Privacy — Threat Modelling & Attack Simulation(Group 2)
 
 > **UCL Electronic & Electrical Engineering — Coursework 2025**
 > Educational demonstration only. All attacks are performed in a controlled local environment.
